@@ -10,5 +10,12 @@
 //torniamo a scrivere in italiano
 //proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
+const emailList = [
+    "aliarrica@gmail.com",
+    "user1@gmail.com",
+    "user2@gmail.com",
+    "user3@gmail.com"
+];
+
 
 let user = prompt("inserisci la tua mail");
