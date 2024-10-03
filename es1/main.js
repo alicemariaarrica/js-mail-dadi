@@ -30,3 +30,4 @@ let user = prompt("inserisci la tua mail");
  else{
     console.log("Non fai parte della lista");
  }
+
